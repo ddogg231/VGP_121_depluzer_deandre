@@ -1,0 +1,3710 @@
+fileFormatVersion: 2
+guid: 30710e0429ac33f4bb5021fa53c810d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 650
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0d7bf6bdc73db43b4c886996565d92
+      internalID: -882402560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 650
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac535fdec220c6144a113d7d2725f19d
+      internalID: -2037577992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 603
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11a4bff5d7cfb44a3d51e6d088e1ce
+      internalID: 1583308931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 603
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f2e0d99a0bac4fbddd791c8ed7ca1
+      internalID: -1786518172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871225ad49a6dc942bbf80f5d936807e
+      internalID: 1963708747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a889e858beaf4783ab95482179de3
+      internalID: 352291009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 603
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282276d1f41753d49a6bc7a21f59aa45
+      internalID: -1210208407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ad7a767880a5478411407b4200981
+      internalID: 1955740300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49879e086464bbd42a544036be3eddea
+      internalID: -1236290573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12235e9feb337f41a799c6bc9b79595
+      internalID: 496561793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a9a416d68b8e4baf625ce9ff000ef
+      internalID: -1715365775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 603
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc045816d43e5a429c4921c8e4e84d4
+      internalID: -1845293893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 556
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa38516b35bab9c489d42b09bb6371ff
+      internalID: 1623150298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 556
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da89e82e3b00e488264e93aa71b10b
+      internalID: -166605832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 556
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420adab12ecf8143921a46573443a3e
+      internalID: -537761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 556
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4f494ba8f444d4390aa51125236fda
+      internalID: -429196717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 556
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24d9a578abd6d42aae7efa76629c5c
+      internalID: 1283717734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 556
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c6b1e175915f4eb220d67fdacbfb3
+      internalID: -847002827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 556
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac46f06041b414b853a00a62a643de
+      internalID: 1787687577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 556
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8234cefab649d504284cb486b951a4c9
+      internalID: -1978227622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 507
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbbdc4352c45f34688ab6fa83a1dd22
+      internalID: -1830120194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 507
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ea4bc71194de499e8aa2a6536f883
+      internalID: 770417968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 507
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33181a84cfcab1c4c9031f6214b98014
+      internalID: 1505144726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 507
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bc310990f46b4bbd68ee1cd08a959
+      internalID: -592208495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 507
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ce48bfccb2ce48922e33ddbdeb1e1
+      internalID: 1594214624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 507
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c47aa9071fbfa4789e098ffff91304
+      internalID: -454735375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 507
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253028480c12ce2449a42b15fd8e89a6
+      internalID: -2102652639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 507
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f37d12537ed9409ced2d72e423df3
+      internalID: -512944759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 462
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29358ccca92d0247ae1e61368ffa583
+      internalID: 280439686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 462
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd04d1c93d738a4f90df436d20ae4e9
+      internalID: 608732613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 462
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f949557fe04a84ab98758e0a403d9a
+      internalID: -1516535180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 462
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19708b4921c32d244bcccd5b271d039f
+      internalID: -1102775623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 403
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348ef05a9a6c99409b3321ec26e012c
+      internalID: -120007872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 403
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f532af7f66e84884231b1f84b40d5
+      internalID: -448608382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04e2adb8870b9488e545378ecfbc46
+      internalID: 551902369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 403
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690631d47b9ac14d875d6786c67edb4
+      internalID: 1971898169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 403
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ad587082f1714092f30fe7afe08b2
+      internalID: -334456540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 403
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae2cfdf4f0f3448ab9d13b15921b8d
+      internalID: -1797308063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_48
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 403
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d66f8843ba2d498e54e4405b0111a
+      internalID: -155823833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 403
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73303fae0f794f941ac116da0978c908
+      internalID: -182539690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_50
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 403
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8514d4cfcacb9f14ea6eb600648640db
+      internalID: -1275000028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_51
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 403
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541ad7c3eeccc8479eb3b6d739ba736
+      internalID: 724326549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 365
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b62d27f1a528c42b0033274f0dbae5
+      internalID: -648715526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 365
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c5fc4dccda014a9b73c48a0c52054
+      internalID: -434073183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 365
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b66cac5e8aba24da7783a56e63b157
+      internalID: 1778472222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 365
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750dba6f395aab74d9938051ee6a731e
+      internalID: -698896209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 365
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a1d98b5418904fb91e313b3b65d50
+      internalID: 1482832075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 365
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779eaaf3dd566a4a919146a55fa5bf7
+      internalID: 383472807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 365
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b5aab4bccae84881737a825c9714a
+      internalID: -274399931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_59
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 365
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e3f1b8f3e3894f85784678337780c
+      internalID: 2028621346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 283
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4bac200ecd3824a99df46f9c6270bc
+      internalID: 860833447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 283
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeaf26acfc72c9438925aed2af3508c
+      internalID: 1428697793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_66
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 283
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed087291e3b0e43a35d34d43b1b6de
+      internalID: -800458464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 283
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a244a91638fa8c4c962113562c5cbb3
+      internalID: 581921458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_68
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 283
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e62ffa1885f2645b15dbd308c0eb9e
+      internalID: -407090465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 281
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0daec318107f54283b2f1eebe6147f
+      internalID: -1473841549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 282
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b280e03d6fc4fc4995386931344a945
+      internalID: 1345578142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 284
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ff2dafa4eb1c41b24c60762685322
+      internalID: -730527344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_72
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 285
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b325ee03c895c48a314946e16313bb
+      internalID: 1808250788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 281
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8387604b8323341b246f898b191c34
+      internalID: -2093991555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_74
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b486993bbeede4f836b2be7d0f9be3
+      internalID: 1326380651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_75
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 272
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6d5b1ecda689418c67f4fddb9cb98
+      internalID: 425657104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9f82aed7269c48987e64dd1ca47dc
+      internalID: -1916544718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_77
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 265
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb381d74ac07aff45b035db40bf00a63
+      internalID: 1173743621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_78
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 265
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde2ef1e4ad96f47a21ddbd4a16ebd7
+      internalID: -249019355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 234
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb51da10f68c14b81e07f67632c37b
+      internalID: 441973582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 234
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf014c6eaa6dd045bc678d739b6c9f2
+      internalID: 1196115147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 232
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ebfad38a17bcc459c154645b16340d
+      internalID: -1445441981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5606dd2b590b54fafd71bf39329545
+      internalID: 2146095048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 246
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc668aa304202784992ac40caaf9b169
+      internalID: 2054162267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 246
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071597ea3ab1ed48a0127e6138e00b0
+      internalID: -406476006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 233
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b23264c6d0fe40be9a31201d06db2
+      internalID: -1911382303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_86
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 238
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95ff33f10cab14a9198d24ad8a5e88
+      internalID: 166506939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_87
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 229
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fee9d7610f8cb46a121bd9a260efcb
+      internalID: 2101333410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 221
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81411eec712dde849b62af9a6b08ff1d
+      internalID: 102610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 225
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee9c84a7067293439b1b93230d9900c
+      internalID: -1640413685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 223
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ad3fa69988b646b90d3a055fae117
+      internalID: 33437508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_91
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 221
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15684d961511a554cba07ff418722fec
+      internalID: -2083493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10978b86aed17d4791867c5beb2bfe1
+      internalID: -656120260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 215
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280373cef39ef1f4bb92ce01907d7586
+      internalID: -1173213541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_94
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 213
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebf2697cc6f6140ab92d9dd4104bb9
+      internalID: -245294341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673402a1927449b4c96a1712c5e20e87
+      internalID: -1650881961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 192
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f530b0d44d80647a6b0b196556c656
+      internalID: -683463861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a33ef68777b734b87bdcb2e899b416
+      internalID: 906151117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 206
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b89abf22535347b52a68b566da6c5
+      internalID: -1393320878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0cdbe3a2f688479907a13e3b6369d
+      internalID: 1662908726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_101
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 191
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff78c8d59bbf940b90670130caca23
+      internalID: -2047456010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_102
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 210
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82044fa6ba4ac3d479804168af610746
+      internalID: -1800938262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_103
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 201
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977af4c6009b5f44a946317c8873f7e0
+      internalID: -117925065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_104
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 183
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093b99745d1f0d478f76a272e12069c
+      internalID: -671028800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c2cb046e59364d959a7ffae1a19e5
+      internalID: 93965038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 182
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551aa490f13f0d449b0610570e529aca
+      internalID: 1233087203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_107
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53811d2a56da01b46adb30dadf9ffad8
+      internalID: 464152455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_108
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 185
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d1064d95902e408c19bb30b36e2ec
+      internalID: -775473943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_109
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6c80f7a2650ca45b4874759a2d1b46
+      internalID: 538525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_110
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 168
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098444d4ed6785d4180fb2a91f773fa2
+      internalID: -791967942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_111
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa07559bc75130438f1accab307a7f1
+      internalID: -816578617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 162
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73848b4fafb2104487a94e48c584728
+      internalID: -1324336145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_113
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 165
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44f8c9ec2aaf848928439db9026a7c
+      internalID: -638791944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 133
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95cdf3a12829d4d9debb64d61997fc
+      internalID: 1969348084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_115
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 133
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c69e26189092a4c9cc4c14b2a9e717
+      internalID: 602348536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_116
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 158
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2940b0876b4924aa2dacdfe216b941
+      internalID: 219453742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_117
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb08d1d206f08c4085f683a2604ddb7
+      internalID: 2144122047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 133
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5342e3cd632b4fa81bc00ca34ce31
+      internalID: -532771241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_119
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11042114dedf8c41a557bb8187a19ba
+      internalID: -1623078797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e987a2251ef1c418fc2d2f0cd1f591
+      internalID: -917690288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_121
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 151
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde6fd9a1b4d334da882b38d035dea6
+      internalID: 711390021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_122
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 156
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b9fbb1abed2042973a98c67bf608f
+      internalID: 1870426215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_123
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 142
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5312b1810c26c64db70ccdd22573c59
+      internalID: 1019686237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 135
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08774c60426e76a48a100caa9bd065f2
+      internalID: -177495179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_125
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf222b2fefbc0459f670b5b52d7ed1
+      internalID: 68317135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_126
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 127
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38e00177f18164d91d4493dd638ac2
+      internalID: -1472610466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_127
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b89a3b5475e93a4a9e5df448d6256b2
+      internalID: 532541972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_128
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 132
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fb8c9dc27fb94f913e0fe75d816df
+      internalID: -1285434214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_129
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627602fa1f1a5514993dcba3559cb61b
+      internalID: 34609239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_130
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409436ef63704347957ba9f34a04eb3
+      internalID: -1890548057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_131
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7aef68af17efb4984525bde9ff2573
+      internalID: -996849315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb6474688e75d4f8a4014df6ad06ff
+      internalID: -1299511885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_133
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 119
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d6dd3c443fe84f9f90520a4f6ad02
+      internalID: 688882117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_134
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 116
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161220a1b37affb45bc702be69b6fa2b
+      internalID: -1106581767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_135
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 103
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c679e0d05c2554fb347224d9d0e3ca
+      internalID: 1970018770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 103
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5014198ea6b24fb24876507e6d803
+      internalID: 137135606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c2aeb86c555a4cad3d034475f9aca
+      internalID: 1690518962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108547e1fe1b66f4d9f056dfba173e8f
+      internalID: 1529478672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_139
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 69
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fcd43baf236c84ca014ca4ae3eccac
+      internalID: 604304283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 69
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf378368e23b543861fb8cf6fbe2ae
+      internalID: -346829232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_141
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 96
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadaed4887d8a6542853b1488baf8773
+      internalID: 174013948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_142
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 98
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14606fcd15f6105439ed85265fd9cf6f
+      internalID: -747555578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_143
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa2e2e8f5b81b447a09f0e2ef93d3d7
+      internalID: 569512865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_144
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 98
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60847187492a61f4a9a1e3a94a39b60b
+      internalID: 345479756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0e04c02b3c404088953e358808304
+      internalID: 1058203275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_146
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 90
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f3fe40380bf64d8c574bfb9cb012b
+      internalID: 1177442774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_147
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 61
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63ce5157d43ef43afb49f5ed364451
+      internalID: 135837982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a36d19c8773764daf63d4b331a218c
+      internalID: -109192812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_149
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 81
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad8fd726c709e4fb48cb5143e4b530
+      internalID: 1420213694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_150
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5416f83fc5ef0479b694067f6c32b6
+      internalID: -2126211686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_151
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 68
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd832244944fe444bc90cb5160a398e
+      internalID: 868012262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_152
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 75
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfb20199926b54fa42e6e8ae7747f2
+      internalID: -822208928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_153
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9945e9d89377f4b4a914582277c23cfe
+      internalID: 406692521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full Girida-G_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd6e7d7fad3ff489727984101f156e
+      internalID: 2073504828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_155
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 51
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0799a5a074e1f4d88c6a22d497e168
+      internalID: -265521163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_156
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 63
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da09229e7762c499cd8a0443231194
+      internalID: 662110338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_157
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76966131958896f4db8ced7831f1cd57
+      internalID: -1307987576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_158
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 46
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065eebdde59ef7b468e0638524a31c37
+      internalID: -1013618718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_159
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 43
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f03c56c93d1a9f46a77450ecd8cad61
+      internalID: -881253279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_160
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82053049440a7d04e893633cfb59d20f
+      internalID: -935977835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_161
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b4839280985d4faf30a68951fb58c
+      internalID: 1578623454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb2cbdbd2a2dd48af7a78aa6224499
+      internalID: 533415241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_163
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcce24c93ab14c48914faa5e1ad097e
+      internalID: 1869910566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_164
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 37
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74d1d1ea22c6e4faaecc238835eaaa
+      internalID: 2023399895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_165
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5266e47394ef5488e8f2923bfaeda9
+      internalID: -275370439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_166
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd3ce23b95538448e65a066123d65e
+      internalID: -737944774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_167
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a80907f70ba2b4187f2ca9c0de462f
+      internalID: -1498343369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_168
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6758585a17e94cb9d422e1f1d5dd3
+      internalID: -1863972579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_169
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1fd376c1e36c4b951e68cdd8b1495
+      internalID: -1376777621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_170
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1021ce947be24db837e44f8ea2fe2
+      internalID: 1986412314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_171
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 23
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe18ffa495243499aa76f8b73843fd
+      internalID: 1182552647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_172
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6f8e34d2e0924291ddb9a35eccf56
+      internalID: -657283407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_173
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd335d6eef181946afe03884f45937d
+      internalID: 832807234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_174
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bee92a365d08e46a2ad46525547df8
+      internalID: -692928153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_179
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349237e93c739dd43b1146855fdedd05
+      internalID: -1494505650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metal Slug Customs - Girida-G_184
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb9026816807a24baa2c04757435b79
+      internalID: 262871834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Metal Slug Customs - Girida-G_98: 906151117
+      Custom Edited - Metal Slug Customs - Girida-G_146: 1177442774
+      Custom Edited - Metal Slug Customs - Girida-G_39: -1516535180
+      Custom Edited - Metal Slug Customs - Girida-G_29: 770417968
+      Custom Edited - Metal Slug Customs - Girida-G_149: 1420213694
+      Custom Edited - Metal Slug Customs - Girida-G_51: 724326549
+      Custom Edited - Metal Slug Customs - Girida-G_78: -249019355
+      Custom Edited - Metal Slug Customs - Girida-G_65: 1428697793
+      Custom Edited - Metal Slug Customs - Girida-G_140: -346829232
+      Custom Edited - Metal Slug Customs - Girida-G_18: 1623150298
+      Custom Edited - Metal Slug Customs - Girida-G_145: 1058203275
+      Custom Edited - Metal Slug Customs - Girida-G_69: -1473841549
+      Custom Edited - Metal Slug Customs - Girida-G_123: 1019686237
+      Custom Edited - Metal Slug Customs - Girida-G_133: 688882117
+      Custom Edited - Metal Slug Customs - Girida-G_159: -881253279
+      Custom Edited - Metal Slug Customs - Girida-G_91: -2083493663
+      Custom Edited - Metal Slug Customs - Girida-G_143: 569512865
+      Custom Edited - Metal Slug Customs - Girida-G_8: 1963708747
+      Custom Edited - Metal Slug Customs - Girida-G_71: -730527344
+      Custom Edited - Metal Slug Customs - Girida-G_67: 581921458
+      Custom Edited - Metal Slug Customs - Girida-G_66: -800458464
+      Custom Edited - Metal Slug Customs - Girida-G_55: -698896209
+      Custom Edited - Metal Slug Customs - Girida-G_112: -1324336145
+      Custom Edited - Metal Slug Customs - Girida-G_115: 602348536
+      Custom Edited - Metal Slug Customs - Girida-G_38: 608732613
+      Custom Edited - Metal Slug Customs - Girida-G_30: 1505144726
+      Custom Edited - Metal Slug Customs - Girida-G_148: -109192812
+      Custom Edited - Metal Slug Customs - Girida-G_124: -177495179
+      Custom Edited - Metal Slug Customs - Girida-G_72: 1808250788
+      Custom Edited - Metal Slug Customs - Girida-G_63: -150331725
+      Custom Edited - Metal Slug Customs - Girida-G_183: 440455040
+      Custom Edited - Metal Slug Customs - Girida-G_37: 280439686
+      Custom Edited - Metal Slug Customs - Girida-G_62: 1318988314
+      Custom Edited - Metal Slug Customs - Girida-G_122: 1870426215
+      Custom Edited - Metal Slug Customs - Girida-G_35: -512944759
+      Custom Edited - Metal Slug Customs - Girida-G_89: -1640413685
+      Custom Edited - Metal Slug Customs - Girida-G_162: 533415241
+      Custom Edited - Metal Slug Customs - Girida-G_158: -1013618718
+      Custom Edited - Metal Slug Customs - Girida-G_20: -537761004
+      Custom Edited - Metal Slug Customs - Girida-G_33: -454735375
+      Custom Edited - Metal Slug Customs - Girida-G_116: 219453742
+      Custom Edited - Metal Slug Customs - Girida-G_34: -2102652639
+      Custom Edited - Metal Slug Customs - Girida-G_42: -120007872
+      Custom Edited - Metal Slug Customs - Girida-G_174: -692928153
+      Custom Edited - Metal Slug Customs - Girida-G_125: 68317135
+      Custom Edited - Metal Slug Customs - Girida-G_163: 1869910566
+      Custom Edited - Metal Slug Customs - Girida-G_165: -275370439
+      Custom Edited - Metal Slug Customs - Girida-G_27: -572219050
+      Custom Edited - Metal Slug Customs - Girida-G_90: 33437508
+      Custom Edited - Metal Slug Customs - Girida-G_54: 1778472222
+      Custom Edited - Metal Slug Customs - Girida-G_118: -532771241
+      Custom Edited - Metal Slug Customs - Girida-G_60: 1041508125
+      Custom Edited - Metal Slug Customs - Girida-G_166: -737944774
+      Custom Edited - Metal Slug Customs - Girida-G_0: -2097042038
+      Custom Edited - Metal Slug Customs - Girida-G_21: -429196717
+      Custom Edited - Metal Slug Customs - Girida-G_57: 383472807
+      Custom Edited - Metal Slug Customs - Girida-G_113: -638791944
+      Custom Edited - Metal Slug Customs - Girida-G_168: -1863972579
+      Custom Edited - Metal Slug Customs - Girida-G_32: 1594214624
+      Custom Edited - Metal Slug Customs - Girida-G_106: 1233087203
+      Custom Edited - Metal Slug Customs - Girida-G_117: 2144122047
+      Custom Edited - Metal Slug Customs - Girida-G_13: 496561793
+      Custom Edited - Metal Slug Customs - Girida-G_25: -1978227622
+      Custom Edited - Metal Slug Customs - Girida-G_80: 1196115147
+      Custom Edited - Metal Slug Customs - Girida-G_172: -657283407
+      Custom Edited - Metal Slug Customs - Girida-G_86: 166506939
+      Custom Edited - Metal Slug Customs - Girida-G_7: -1786518172
+      Custom Edited - Metal Slug Customs - Girida-G_169: -1376777621
+      Custom Edited - Metal Slug Customs - Girida-G_2: 1500844641
+      Custom Edited - Metal Slug Customs - Girida-G_48: -155823833
+      Custom Edited - Metal Slug Customs - Girida-G_101: -2047456010
+      Custom Edited - Metal Slug Customs - Girida-G_181: 44446635
+      Custom Edited - Metal Slug Customs - Girida-G_87: 2101333410
+      Custom Edited - Metal Slug Customs - Girida-G_85: -1911382303
+      Custom Edited - Metal Slug Customs - Girida-G_76: -1916544718
+      Custom Edited - Metal Slug Customs - Girida-G_139: 604304283
+      Custom Edited - Metal Slug Customs - Girida-G_135: 1970018770
+      Custom Edited - Metal Slug Customs - Girida-G_83: 2054162267
+      Custom Edited - Metal Slug Customs - Girida-G_9: 352291009
+      Custom Edited - Metal Slug Customs - Girida-G_44: 551902369
+      Custom Edited - Metal Slug Customs - Girida-G_22: 1283717734
+      Custom Edited - Metal Slug Customs - Girida-G_26: -1836073833
+      Custom Edited - Metal Slug Customs - Girida-G_75: 425657104
+      Custom Edited - Metal Slug Customs - Girida-G_70: 1345578142
+      Custom Edited - Metal Slug Customs - Girida-G_114: 1969348084
+      Custom Edited - Metal Slug Customs - Girida-G_126: -1472610466
+      Custom Edited - Metal Slug Customs - Girida-G_1: -238878545
+      Custom Edited - Metal Slug Customs - Girida-G_160: -935977835
+      Custom Edited - Metal Slug Customs - Girida-G_96: -1650881961
+      Custom Edited - Metal Slug Customs - Girida-G_40: -1102775623
+      Custom Edited - Metal Slug Customs - Girida-G_61: -808009595
+      Custom Edited - Metal Slug Customs - Girida-G_64: 860833447
+      Custom Edited - Metal Slug Customs - Girida-G_99: -1393320878
+      Custom Edited - Metal Slug Customs - Girida-G_3: -882402560
+      Custom Edited - Metal Slug Customs - Girida-G_138: 1529478672
+      Custom Edited - Metal Slug Customs - Girida-G_173: 832807234
+      Custom Edited - Metal Slug Customs - Girida-G_43: -448608382
+      Custom Edited - Metal Slug Customs - Girida-G_11: 1955740300
+      Custom Edited - Metal Slug Customs - Girida-G_108: -775473943
+      Custom Edited - Metal Slug Customs - Girida-G_144: 345479756
+      Custom Edited - Metal Slug Customs - Girida-G_52: -648715526
+      Custom Edited - Metal Slug Customs - Girida-G_95: 1732057133
+      Custom Edited - Metal Slug Customs - Girida-G_47: -1797308063
+      Custom Edited - Metal Slug Customs - Girida-G_177: -1993746824
+      Custom Edited - Metal Slug Customs - Girida-G_152: -822208928
+      Custom Edited - Metal Slug Customs - Girida-G_184: 262871834
+      Custom Edited - Metal Slug Customs - Girida-G_119: -1623078797
+      Custom Edited - Metal Slug Customs - Girida-G_164: 2023399895
+      Custom Edited - Metal Slug Customs - Girida-G_167: -1498343369
+      Custom Edited - Metal Slug Customs - Girida-G_4: -2037577992
+      Custom Edited - Metal Slug Customs - Girida-G_74: 1326380651
+      Custom Edited - Metal Slug Customs - Girida-G_147: 135837982
+      Custom Edited - Metal Slug Customs - Girida-G_103: -117925065
+      Custom Edited - Metal Slug Customs - Girida-G_136: 137135606
+      Custom Edited - Metal Slug Customs - Girida-G_180: -414331093
+      Custom Edited - Metal Slug Customs - Girida-G_132: -1299511885
+      Custom Edited - Metal Slug Customs - Girida-G_178: -1762907998
+      Custom Edited - Metal Slug Customs - Girida-G_179: -1494505650
+      Custom Edited - Metal Slug Customs - Girida-G_151: 868012262
+      Custom Edited - Metal Slug Customs - Girida-G_79: 441973582
+      Custom Edited - Metal Slug Customs - Girida-G_104: -671028800
+      Custom Edited - Metal Slug Customs - Girida-G_141: 174013948
+      Custom Edited - Metal Slug Customs - Girida-G_56: 1482832075
+      Custom Edited - Metal Slug Customs - Girida-G_92: -656120260
+      Custom Edited - Metal Slug Customs - Girida-G_142: -747555578
+      Custom Edited - Metal Slug Customs - Girida-G_150: -2126211686
+      Custom Edited - Metal Slug Customs - Girida-G_110: -791967942
+      Custom Edited - Metal Slug Customs - Girida-G_171: 1182552647
+      Custom Edited - Metal Slug Customs - Girida-G_182: 1054870046
+      Custom Edited - Metal Slug Customs - Girida-G_130: -1890548057
+      Custom Edited - Metal Slug Customs - Girida-G_68: -407090465
+      Custom Edited - Metal Slug Customs - Girida-G_6: 1583308931
+      Custom Edited - Metal Slug Customs - Girida-G_16: -1001658460
+      Custom Edited - Metal Slug Customs - Girida-G_17: 816550327
+      Custom Edited - Metal Slug Customs - Girida-G_84: -406476006
+      Custom Edited - Metal Slug Customs - Girida-G_41: -1271040130
+      Custom Edited - Metal Slug Customs - Girida-G_31: -592208495
+      Custom Edited - Metal Slug Customs - Girida-G_120: -917690288
+      Custom Edited - Metal Slug Customs - Girida-G_175: -793873710
+      Custom Edited - Metal Slug Customs - Girida-G_5: -580038371
+      Custom Edited - Metal Slug Customs - Girida-G_134: -1106581767
+      Custom Edited - Metal Slug Customs - Girida-G_24: 1787687577
+      Custom Edited - Metal Slug Customs - Girida-G_12: -1236290573
+      Custom Edited - Metal Slug Customs - Girida-G_53: -434073183
+      Custom Edited - Metal Slug Customs - Girida-G_121: 711390021
+      Custom Edited - Metal Slug Customs - Girida-G_73: -2093991555
+      full Girida-G_154: 2073504828
+      Custom Edited - Metal Slug Customs - Girida-G_45: 1971898169
+      Custom Edited - Metal Slug Customs - Girida-G_157: -1307987576
+      Custom Edited - Metal Slug Customs - Girida-G_176: 578782587
+      Custom Edited - Metal Slug Customs - Girida-G_77: 1173743621
+      Custom Edited - Metal Slug Customs - Girida-G_100: 1662908726
+      Custom Edited - Metal Slug Customs - Girida-G_28: -1830120194
+      Custom Edited - Metal Slug Customs - Girida-G_93: -1173213541
+      Custom Edited - Metal Slug Customs - Girida-G_128: -1285434214
+      Custom Edited - Metal Slug Customs - Girida-G_14: -1715365775
+      Custom Edited - Metal Slug Customs - Girida-G_102: -1800938262
+      Custom Edited - Metal Slug Customs - Girida-G_81: -1445441981
+      Custom Edited - Metal Slug Customs - Girida-G_15: -1845293893
+      Custom Edited - Metal Slug Customs - Girida-G_105: 93965038
+      Custom Edited - Metal Slug Customs - Girida-G_111: -816578617
+      Custom Edited - Metal Slug Customs - Girida-G_88: 102610980
+      Custom Edited - Metal Slug Customs - Girida-G_109: 538525948
+      Custom Edited - Metal Slug Customs - Girida-G_127: 532541972
+      Custom Edited - Metal Slug Customs - Girida-G_155: -265521163
+      Custom Edited - Metal Slug Customs - Girida-G_170: 1986412314
+      Custom Edited - Metal Slug Customs - Girida-G_46: -334456540
+      Custom Edited - Metal Slug Customs - Girida-G_97: -683463861
+      Custom Edited - Metal Slug Customs - Girida-G_94: -245294341
+      Custom Edited - Metal Slug Customs - Girida-G_131: -996849315
+      Custom Edited - Metal Slug Customs - Girida-G_23: -847002827
+      Custom Edited - Metal Slug Customs - Girida-G_82: 2146095048
+      Custom Edited - Metal Slug Customs - Girida-G_49: -182539690
+      Custom Edited - Metal Slug Customs - Girida-G_137: 1690518962
+      Custom Edited - Metal Slug Customs - Girida-G_10: -1210208407
+      Custom Edited - Metal Slug Customs - Girida-G_19: -166605832
+      Custom Edited - Metal Slug Customs - Girida-G_129: 34609239
+      Custom Edited - Metal Slug Customs - Girida-G_161: 1578623454
+      Custom Edited - Metal Slug Customs - Girida-G_50: -1275000028
+      Custom Edited - Metal Slug Customs - Girida-G_107: 464152455
+      Custom Edited - Metal Slug Customs - Girida-G_58: -274399931
+      Custom Edited - Metal Slug Customs - Girida-G_156: 662110338
+      Custom Edited - Metal Slug Customs - Girida-G_36: -1822356628
+      Custom Edited - Metal Slug Customs - Girida-G_153: 406692521
+      Custom Edited - Metal Slug Customs - Girida-G_59: 2028621346
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
